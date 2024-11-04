@@ -1,0 +1,197 @@
+{
+  "general": {
+    "title": {
+      "id": "title",
+      "ariaLabel": "Our title",
+      "value": "Golden Leaf Muay Thai",
+      "description": "A Hemlab App"
+    },
+    "organizationNumber": {
+      "id": "organizationNumber",
+      "ariaLabel": "Our organization number",
+      "value": "802439-1123"
+    }
+  },
+  "routes": [
+    {
+      "id": "hem",
+      "route": "/",
+      "niceName": "Hem",
+      "ariaLabel": "Home page"
+    },
+    {
+      "id": "traningsgrupper",
+      "route": "/traningsgrupper",
+      "niceName": "Träningsgrupper",
+      "ariaLabel": "Features page"
+    },
+    {
+      "id": "schema",
+      "route": "/schema",
+      "niceName": "Schema",
+      "ariaLabel": "Schedule page"
+    },
+    {
+      "id": "priser",
+      "route": "/priser",
+      "niceName": "Priser",
+      "ariaLabel": "Prices page"
+    },
+    {
+      "id": "omoss",
+      "route": "/om-oss",
+      "niceName": "Om oss",
+      "ariaLabel": "About page"
+    },
+    {
+      "id": "kontakt",
+      "route": "/kontakt",
+      "niceName": "Kontakt",
+      "ariaLabel": "Contact page"
+    }
+  ],
+  "socialMedia": [
+    {
+      "id": "facebook",
+      "route": "https://www.facebook.com/GoldenLeafMuayThai",
+      "niceName": "Facebook",
+      "ariaLabel": "Go to our Facebook page",
+      "iconId": "facebook"
+    },
+    {
+      "id": "instagram",
+      "route": "https://www.instagram.com/goldenleafmt",
+      "niceName": "Instagram",
+      "ariaLabel": "Go to our Instagram page",
+      "iconId": "instagram"
+    }
+  ],
+  "contact": [
+    {
+      "id": "phoneNumber",
+      "ariaLabel": "Our phone number",
+      "value": "0701234567",
+      "niceName": "Telefon",
+      "iconId": "phone"
+    },
+    {
+      "id": "email",
+      "ariaLabel": "Our email",
+      "value": "golden.leaf.muay.thai@hotmail.com",
+      "niceName": "Email",
+      "iconId": "envelope"
+    },
+    {
+      "id": "address",
+      "ariaLabel": "Our address",
+      "value": "Nobelvägen 17C, 214 29 Malmö",
+      "niceName": "Adress",
+      "iconId": "location",
+      "route": "https://www.google.com/maps/place/Golden+Leaf+Muay+Thai/@55.5857973,13.0081598,17z/data=!3m1!4b1!4m5!3m4!1s0x4653a14233f3c22b:0xe14c994fb4a3f6ae!8m2!3d55.5857973!4d13.0103485?shorturl=1"
+    }
+  ],
+  "prices": [
+    {
+      "id": "adult",
+      "title": "Vuxen (18+)",
+      "price": 1900,
+      "pricePeriod": "/termin",
+      "description": "För alla över 18 år som vill träna regelbundet hos oss. Tillgång till alla våra träningspass anpassade för vuxna."
+    },
+    {
+      "id": "youth",
+      "title": "Ungdom (14-17)",
+      "price": 1500,
+      "pricePeriod": "/termin",
+      "description": "Anpassat pris för dig som är mellan 13–17 år och vill utvecklas inom thaiboxning. Ger tillgång till träning och gemenskap med andra ungdomar."
+    },
+    {
+      "id": "child",
+      "title": "Barn (9-13)",
+      "price": 1100,
+      "pricePeriod": "/termin",
+      "description": "För barn mellan 9–12 år som vill prova på thaiboxning i en trygg och rolig miljö. Träningen är anpassad för barnens nivå och behov."
+    },
+    {
+      "id": "trial",
+      "title": "Provträning",
+      "price": 100,
+      "pricePeriod": "/tillfälle",
+      "description": "För dig som vill testa ett pass och känna på vår träning innan du bestämmer dig. Föranmälan krävs!"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "monday",
+      "title": "Måndag",
+      "events": [
+        {
+          "name": "Avancerad",
+          "time": "17:30 - 18:45"
+        },
+        {
+          "name": "Fortsättningsgruppen",
+          "time": "18:45 - 20:00"
+        }
+      ]
+    },
+    {
+      "id": "tuesday",
+      "title": "Tisdag",
+      "events": [
+        {
+          "name": "Nybörjargruppen",
+          "time": "18:45 - 20:00"
+        }
+      ]
+    },
+    {
+      "id": "wednesday",
+      "title": "Onsdag",
+      "events": [
+        {
+          "name": "Avancerad",
+          "time": "17:30 - 18:45"
+        },
+        {
+          "name": "Fortsättningsgruppen",
+          "time": "18:45 - 20:00"
+        }
+      ]
+    },
+    {
+      "id": "thursday",
+      "title": "Torsdag",
+      "events": [
+        {
+          "name": "Barngruppen",
+          "time": "17:00 - 18:15"
+        },
+        {
+          "name": "Nybörjargruppen",
+          "time": "18:45 - 20:00"
+        }
+      ]
+    },
+    {
+      "id": "friday",
+      "title": "Fredag",
+      "events": [
+        {
+          "name": "Sparring",
+          "time": "17:30 - 19:00"
+        }
+      ]
+    },
+    {
+      "id": "saturday",
+      "title": "Lördag",
+      "events": [
+        {
+          "name": "Avancerad",
+          "time": "13:00 - 18:45"
+        }
+      ]
+    }
+  ]
+}
