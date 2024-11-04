@@ -126,10 +126,12 @@
       "title": "Måndag",
       "events": [
         {
+          "id": "Avancerad",
           "name": "Avancerad",
           "time": "17:30 - 18:45"
         },
         {
+          "id": "Fortsättningsgruppen",
           "name": "Fortsättningsgruppen",
           "time": "18:45 - 20:00"
         }
@@ -140,6 +142,7 @@
       "title": "Tisdag",
       "events": [
         {
+          "id": "Nybörjargruppen",
           "name": "Nybörjargruppen",
           "time": "18:45 - 20:00"
         }
@@ -150,10 +153,12 @@
       "title": "Onsdag",
       "events": [
         {
+          "id": "Avancerad",
           "name": "Avancerad",
           "time": "17:30 - 18:45"
         },
         {
+          "id": "Fortsättningsgruppen",
           "name": "Fortsättningsgruppen",
           "time": "18:45 - 20:00"
         }
@@ -164,10 +169,12 @@
       "title": "Torsdag",
       "events": [
         {
+          "id": "Barngruppen",
           "name": "Barngruppen",
           "time": "17:00 - 18:15"
         },
         {
+          "id": "Nybörjargruppen",
           "name": "Nybörjargruppen",
           "time": "18:45 - 20:00"
         }
@@ -178,6 +185,7 @@
       "title": "Fredag",
       "events": [
         {
+          "id": "Sparring",
           "name": "Sparring",
           "time": "17:30 - 19:00"
         }
@@ -188,6 +196,7 @@
       "title": "Lördag",
       "events": [
         {
+          "id": "Avancerad",
           "name": "Avancerad",
           "time": "13:00 - 18:45"
         }
