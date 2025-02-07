@@ -120,6 +120,38 @@
       "description": "För dig som vill testa ett pass och känna på vår träning innan du bestämmer dig. Föranmälan krävs!"
     }
   ],
+  "services": [
+    {
+      "id": "nyborjargruppen",
+      "title": "Nybörjargruppen",
+      "text": "Du behöver inga förkunskaper för att börja träna i nybörjargruppen. Allt du behöver är träningskläder och handskar!",
+      "iconId": "stairs"
+    },
+    {
+      "id": "mellangruppen",
+      "title": "Mellangruppen",
+      "text": "Grundläggande thaiboxningsteknik krävs för att träna i mellangruppen. Eget benskydd och tandskydd är också nödvändigt, eftersom träningen innehåller lättare sparring och sparringsövningar.",
+      "iconId": "boxingGlove"
+    },
+    {
+      "id": "tavlingsgruppen",
+      "title": "Tävlingsgruppen",
+      "text": "För dig som tävlar eller har tävlingsambitioner. Här fokuserar vi på att utvecklas som fighters och ställer högre krav på varandra i träningen.",
+      "iconId": "trophy"
+    },
+    {
+      "id": "tjejgruppen",
+      "title": "Tjejgruppen",
+      "text": "För dig som är tjej och vill träna thaiboxning tillsammans med andra tjejer. Inga förkunskaper behövs för att vara med.",
+      "iconId": "female"
+    },
+    {
+      "id": "barngruppen",
+      "title": "Barngruppen",
+      "text": "För alla barn i åldern 9–12 år. Ingen särskild utrustning än träningskläder behövs.",
+      "iconId": "children"
+    }
+  ],
   "schedule": [
     {
       "id": "monday",
